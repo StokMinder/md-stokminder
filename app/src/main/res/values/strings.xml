@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">StockMinder</string>
+
+    <string name="wel_1">Specifically designed to assist you in optimizing inventory management efficiency for UMKMs. Join us on a journey towards smoother operations and greater profits</string>
+    <string name="wel_2">With this app, you can effortlessly elevate inventory management efficiency for your UMKM business. Let's begin optimizing your inventory and achieving sustainable growth</string>
+    <string name="wel_3">Unlock the potential of your UMKM with StockPro. Log in or sign up to streamline your stock management, increase efficiency, and boost profitability.</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_movement">Movement</string>
+    <string name="title_report">Report</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_login">Login</string>
+    <string name="title_register">Register</string>
+    <string name="title_rekomendasi">Rekomendasi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
