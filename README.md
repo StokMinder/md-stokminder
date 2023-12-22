@@ -25,4 +25,18 @@ The Features:
     <img src="https://github.com/StokMinder/md-stokminder/assets/152950761/4154395a-0581-41a2-99ba-9972d377a517" width="120" alt="Android Large - 99">
 </div>
 
-<h1></h1>
+<h1>Features</h1>
+<h3>Login/Register</h3>
+Login and Register using Firebase Authentification (Email and Password)
+<h3>Dashboard</h3>
+Contains a home page which includes a join community feature, profile button and stock item recommendations
+<h3>Recomendation</h3>
+User can see recommendations for the amount of stock that must be provided for the next sale
+<h3>Join Community</h3>
+Supporting features so that user can enter the community UMKM
+<h3>Add and lack stok item</h3>
+User can add and subtract the number of stock items
+<h3>Sales Report</h3>
+User can see a recap of sales results every day
+<h3>Profile</h3>
+User can edit/update their profile, user preference data, help feature to asking regarding the StockMinder application
